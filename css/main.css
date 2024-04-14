@@ -156,6 +156,9 @@ body {
 .offers-content .btn{
     border-color: transparent!important;
 }
+#about{
+    background-color: rgba(179, 179, 179, 0.05);
+}
 
 
 
